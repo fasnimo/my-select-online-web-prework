@@ -5,6 +5,6 @@ def my_select(collection)
  collection.to_a.select do |x|
    x.even? 
    end 
- collection
+ 
 end 
 
